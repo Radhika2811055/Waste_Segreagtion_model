@@ -1,4 +1,4 @@
-# Waste_Segreagtion_model
+# Waste_Segregation_model
 An AI-powered solution that uses OpenCV to classify waste as biodegradable or non-biodegradable. Recyclable waste is converted into new products and sold through an integrated e-commerce website.
 This website is a part of our waste segregation initiative. It serves as a platform to display and sell eco-friendly products created from recyclable waste identified by our OpenCV-based model. The aim is to promote sustainability by giving a second life to waste materials and encouraging responsible consumption.
 
