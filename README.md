@@ -7,7 +7,6 @@ Key features:
 2. Clean, user-friendly design with product listings and categories
 3. Deployed using Vercel for fast, reliable access
 
-Here's the link of the webiste !!
-https://eco-visionaries.vercel.app/
+Here's the link of the webiste :- https://eco-visionaries.vercel.app/
 
 The website not only spreads awareness but also actively contributes to the circular economy by transforming waste into valuable goods.
